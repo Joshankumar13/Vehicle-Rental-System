@@ -16,11 +16,11 @@ The Vehicle Rental System is a comprehensive application designed to manage the 
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/vehicle-rental-system.git
+    git clone https://github.com/joshan-18/Vehicle-Rental-System.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd vehicle-rental-system
+    cd Vehicle-Rental-System
     ```
 3. **Set up the database:**
    - Import the SQL script located in the `database` directory to your MySQL server.
